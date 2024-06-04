@@ -1,7 +1,7 @@
 ;;;; auto-suspend.asd
 
 (asdf:defsystem #:auto-suspend
-  :description "Describe auto-suspend here"
+  :description "Auto suspends when the battery capacity is low"
   :author "Kamy"
   :license  "GPLv3"
   :version "0.0.1"
